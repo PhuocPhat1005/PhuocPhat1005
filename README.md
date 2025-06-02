@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **CoTAI Talents**
+ 🔭 I’m currently working on **TMA Solutions**
 
  ✍️ I'm currently studying at **University of Science**, **National University of Ho Chi Minh City**
  
