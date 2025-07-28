@@ -67,6 +67,7 @@
   <a href="https://www.youtube.com/watch?v=8O4jLFzmkPg"><img src="https://ytcards.demolab.com/?id=8O4jLFzmkPg&title=Delivery+System+AI+Searching&lang=en&timestamp=8O4jLFzmkPg&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337" alt="Delivery System AI Searching"/></a>
   <a href="https://www.youtube.com/watch?v=ZLpqiuz0C70"><img src="https://ytcards.demolab.com/?id=ZLpqiuz0C70&title=HomeDefender+IoT+Demo&lang=en&timestamp=ZLpqiuz0C70&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481" alt="HomeDefender IoI Demo"/></a>
   <a href="https://www.youtube.com/watch?v=j1fjDO7i2Wo"><img src="https://ytcards.demolab.com/?id=j1fjDO7i2Wo&title=Face+Detection+Using+Hybrid+Skin+Color+Model&lang=en&timestamp=j1fjDO7i2Wo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64" alt="Face Dectection Using Hybrid Skin Color Model"/></a>
+  <a href="https://www.youtube.com/watch?v=p4qmyA-IBH4"><img src="https://ytcards.demolab.com/?id=p4qmyA-IBH4&title=Phát+Triển+Hệ+Thống+Phân+Tích+Tự+Động+LLMs&lang=en&timestamp=p4qmyA-IBH4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716" alt="Phát triển hệ thống phân tích tự động LLMs"/></a>
 </div>
 <!-- END YOUTUBE-CARDS -->
 
