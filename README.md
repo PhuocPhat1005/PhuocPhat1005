@@ -84,7 +84,7 @@
     <img src="https://ytcards.demolab.com/?id=j1fjDO7i2Wo&title=Face+Detection+Using+Hybrid+Skin+Color+Model&lang=en&timestamp=j1fjDO7i2Wo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64" alt="Face Detection Using Hybrid Skin Color Model"/>
   </a>
   <a href="https://www.youtube.com/watch?v=p4qmyA-IBH4">
-    <img src="https://ytcards.demolab.com/?id=p4qmyA-IBH4&title=Phát+Triển+Hệ+Thống+Phân+Tích+Tự+Động+LLMs&lang=en&timestamp=p4qmyA-IBH4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716" alt="Phát triển hệ thống phân tích tự động LLMs"/>
+    <img src="https://ytcards.demolab.com/?id=p4qmyA-IBH4&title=Advanced+Data+Analysis&lang=en&timestamp=p4qmyA-IBH4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716" alt="Advanced Data Analysis"/>
   </a>
 </div>
 <!-- END YOUTUBE-CARDS -->
