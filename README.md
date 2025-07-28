@@ -53,24 +53,42 @@
 <br/>
 <hr/>
 
-<div align = "center">
-    <h2>📺 Latest YouTube Videos 📺</h2>
+<div align="center">
+  <h2>📺 Latest YouTube Videos 📺</h2>
 </div>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.youtube.com/watch?v=VRUof7FLu6c"><img src="https://ytcards.demolab.com/?id=VRUof7FLu6c&title=Emotional+ChatBot&lang=en&timestamp=VRUof7FLu6c&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Emotional ChatBot Q&A"/></a>
-  <a href="https://www.youtube.com/watch?v=zi8hFksplgs"><img src="https://ytcards.demolab.com/?id=zi8hFksplgs&title=Document+ChatBot+Q+-+A&lang=en&timestamp=zi8hFksplgs&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Document ChatBot Q&A"/></a>
-  <a href="https://www.youtube.com/watch?v=AUKowyjpIHE"><img src="https://ytcards.demolab.com/?id=AUKowyjpIHE&title=Project+Design+Pattern+OOP&lang=en&timestamp=AUKowyjpIHE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=914" alt="Project Design Pattern OOP"/></a>
-  <a href="https://www.youtube.com/watch?v=-wloHUp86EU"><img src="https://ytcards.demolab.com/?id=-wloHUp86EU&title=Online+Book+Store+UI+Demo&lang=en&timestamp=-wloHUp86EU&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2195" alt="Online Book Store UI Demo"/></a>
-  <a href="https://www.youtube.com/watch?v=LvsKcd263B4"><img src="https://ytcards.demolab.com/?id=LvsKcd263B4&title=Wumpus+World+Game+AI&lang=en&timestamp=LvsKcd263B4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=589" alt="Wumpus World Game AI"/></a>
-  <a href="https://www.youtube.com/watch?v=8O4jLFzmkPg"><img src="https://ytcards.demolab.com/?id=8O4jLFzmkPg&title=Delivery+System+AI+Searching&lang=en&timestamp=8O4jLFzmkPg&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337" alt="Delivery System AI Searching"/></a>
-  <a href="https://www.youtube.com/watch?v=ZLpqiuz0C70"><img src="https://ytcards.demolab.com/?id=ZLpqiuz0C70&title=HomeDefender+IoT+Demo&lang=en&timestamp=ZLpqiuz0C70&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481" alt="HomeDefender IoI Demo"/></a>
-  <a href="https://www.youtube.com/watch?v=j1fjDO7i2Wo"><img src="https://ytcards.demolab.com/?id=j1fjDO7i2Wo&title=Face+Detection+Using+Hybrid+Skin+Color+Model&lang=en&timestamp=j1fjDO7i2Wo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64" alt="Face Dectection Using Hybrid Skin Color Model"/></a>
-  <a href="https://www.youtube.com/watch?v=p4qmyA-IBH4"><img src="https://ytcards.demolab.com/?
-id=p4qmyA-IBH4&title=Phát+Triển+Hệ+Thống+Phân+Tích+Tự+Động+LLMs&lang=en&timestamp=p4qmyA-IBH4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716" alt="Phát triển hệ thống phân tích tự động LLMs"/></a>
+  <a href="https://www.youtube.com/watch?v=VRUof7FLu6c">
+    <img src="https://ytcards.demolab.com/?id=VRUof7FLu6c&title=Emotional+ChatBot&lang=en&timestamp=VRUof7FLu6c&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Emotional ChatBot Q&A"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=zi8hFksplgs">
+    <img src="https://ytcards.demolab.com/?id=zi8hFksplgs&title=Document+ChatBot+Q+-+A&lang=en&timestamp=zi8hFksplgs&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Document ChatBot Q&A"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=AUKowyjpIHE">
+    <img src="https://ytcards.demolab.com/?id=AUKowyjpIHE&title=Project+Design+Pattern+OOP&lang=en&timestamp=AUKowyjpIHE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=914" alt="Project Design Pattern OOP"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=-wloHUp86EU">
+    <img src="https://ytcards.demolab.com/?id=-wloHUp86EU&title=Online+Book+Store+UI+Demo&lang=en&timestamp=-wloHUp86EU&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2195" alt="Online Book Store UI Demo"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=LvsKcd263B4">
+    <img src="https://ytcards.demolab.com/?id=LvsKcd263B4&title=Wumpus+World+Game+AI&lang=en&timestamp=LvsKcd263B4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=589" alt="Wumpus World Game AI"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=8O4jLFzmkPg">
+    <img src="https://ytcards.demolab.com/?id=8O4jLFzmkPg&title=Delivery+System+AI+Searching&lang=en&timestamp=8O4jLFzmkPg&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337" alt="Delivery System AI Searching"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=ZLpqiuz0C70">
+    <img src="https://ytcards.demolab.com/?id=ZLpqiuz0C70&title=HomeDefender+IoT+Demo&lang=en&timestamp=ZLpqiuz0C70&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481" alt="HomeDefender IoT Demo"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=j1fjDO7i2Wo">
+    <img src="https://ytcards.demolab.com/?id=j1fjDO7i2Wo&title=Face+Detection+Using+Hybrid+Skin+Color+Model&lang=en&timestamp=j1fjDO7i2Wo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64" alt="Face Detection Using Hybrid Skin Color Model"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=p4qmyA-IBH4">
+    <img src="https://ytcards.demolab.com/?id=p4qmyA-IBH4&title=Phát+Triển+Hệ+Thống+Phân+Tích+Tự+Động+LLMs&lang=en&timestamp=p4qmyA-IBH4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716" alt="Phát triển hệ thống phân tích tự động LLMs"/>
+  </a>
 </div>
 <!-- END YOUTUBE-CARDS -->
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
